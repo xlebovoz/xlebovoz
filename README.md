@@ -16,13 +16,15 @@
 ---
 
 ## 🛠️ Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,py,flask,vscode)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?xlebovoz=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?xlebovoz=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![codewars](https://www.codewars.com/users/baton%20xleba/badges/large)](https://www.codewars.com/users/baton%20xleba) 
 ---
 
 ## 📫 How to Reach Me?
