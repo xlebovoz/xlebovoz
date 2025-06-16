@@ -21,8 +21,8 @@
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?xlebovoz=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?xlebovoz=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlebovoz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlebovoz&layout=compact)
 ---
 [![codewars](https://www.codewars.com/users/baton%20xleba/badges/large)](https://www.codewars.com/users/baton%20xleba) 
 ---
