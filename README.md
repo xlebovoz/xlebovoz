@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Xlebovoz
 
+![](https://komarev.com/ghpvc/?username=xlebovoz&color=red)
+
 🚀 Not a bad Python developer
 
 🚀 Beginner Front-end Developer
