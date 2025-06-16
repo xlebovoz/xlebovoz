@@ -1,11 +1,11 @@
-##👋 Hi there! I'm Xlebovoz
+#👋 Hi there! I'm Xlebovoz
 
 🚀 Not a bad python developer
 
 🚀 Beginner Front-end Developer
 
 
-##🌟 About Me
+#🌟 About Me
 
 -🔭 I’m currently working on: I write small websites or programs in python
 
@@ -15,11 +15,11 @@
 
 -⚡ Fun fact: Once spent 2 hours fixing an error because I didn't close a tag 😅
 
-##🛠️ Tech skills
+#🛠️ Tech skills
 
-##📊 GitHub Stats
+#📊 GitHub Stats
 
-##📫 How to reach me?
+#📫 How to reach me?
 
 -📧 Email: lebed3108alex@gmail.com
 
