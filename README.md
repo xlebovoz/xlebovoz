@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tech Skills
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,py)](https://skillicons.dev)
 
 ---
 
@@ -32,3 +32,4 @@
 - 💼 Stack Overflow: [https://stackoverflow.com/users/29559006/xleb](https://stackoverflow.com/users/29559006/xleb)  
 - 📈 Codewars: [https://www.codewars.com/users/baton%20xleba](https://www.codewars.com/users/baton%20xleba)  
 - 💻 Frontend Mentor: [https://www.frontendmentor.io/profile/xlebovoz](https://www.frontendmentor.io/profile/xlebovoz)
+- 🌐 My website: https: [//xlebovoz-links.vercel.app/](https://xlebovoz-links.vercel.app/)
