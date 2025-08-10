@@ -12,8 +12,7 @@
 
 - 🔭 I’m currently working on: writing small websites and programs in Python  
 - 🌱 I’m currently learning: improving my JavaScript skills  
-- 🎯 Future Goals: become a full-stack developer, get a job at a good company, and share projects with source code  
-- ⚡ Fun fact: once spent 2 hours fixing an error because I didn't close a tag 😅  
+- 🎯 Future Goals: become a full-stack developer, get a job at a good company, and share projects with source code    
 
 ---
 
