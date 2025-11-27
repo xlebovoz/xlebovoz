@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,py,qt,flask,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,c,py,qt,flask,vscode)](https://skillicons.dev)
 
 ---
 
