@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlebovoz&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlebovoz)](https://github.com/xlebovoz/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlebovoz&layout=compact&theme=transparent)
 ---
 [![codewars](https://www.codewars.com/users/baton%20xleba/badges/large)](https://www.codewars.com/users/baton%20xleba) 
