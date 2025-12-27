@@ -2,15 +2,15 @@
 
 <h1 align="center">Hello i am Xlebovoz 🍞</h1>
 
-<p align="center">
+<h4 align="center">
   <strong>Python and web developer</strong>
-</p>
+</h4>
 
 ## 🌟 About Me
 
 - 🔭 I’m currently working on: writing small websites and programs in Python  
 - 🌱 I’m currently learning: improving my JavaScript skills  
-- 🎯 Future Goals: become a full-stack developer, get a job at a good company, and share projects with source code    
+- 🎯 Future goals: to become a full-fledged developer, get a job in a good company and relax in the mountains  
 
 ---
 
@@ -40,10 +40,14 @@
 
 ## 📫 How to Reach Me?
 
-   
-- 📈 Codewars: [https://www.codewars.com/users/baton%20xleba](https://www.codewars.com/users/baton%20xleba)  
-- 💻 Frontend Mentor: [https://www.frontendmentor.io/profile/xlebovoz](https://www.frontendmentor.io/profile/xlebovoz)
-- 🌐 My website: https: [//xlebovoz-links.vercel.app/](https://xlebovoz-links.vercel.app/)
+<div align="center">
+<a href="https://www.codewars.com/users/baton%20xleba"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
+<a href="https://www.frontendmentor.io/profile/xlebovoz"><img src="https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/HappyXLEB/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+<div>
 
+<!-- - 🌐 My website: https: [//xlebovoz-links.vercel.app/](https://xlebovoz-links.vercel.app/) -->
+
+<!-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
 
 ![](https://komarev.com/ghpvc/?username=xlebovoz&style=for-the-badge&color=blue)
