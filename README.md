@@ -1,10 +1,11 @@
-# 👋 Hi there! I'm Xlebovoz
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+
+
+<h1 align="center">Hello i am Xlebovoz</h1>
+<h2 align="center">Python and web developer<h2>
+
 
 ![](https://komarev.com/ghpvc/?username=xlebovoz&color=red)
-
-🚀 Not a bad Python developer
-
-🚀 Beginner Front-end Developer
 
 ---
 
@@ -17,7 +18,15 @@
 ---
 
 ## 🛠️ Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,c,py,qt,flask,vscode)](https://skillicons.dev)
+
+Languages:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c)](https://skillicons.dev)
+
+Frameworks & Libraries:
+[![My Skills](https://skillicons.dev/icons?i=react,htmx,qt,flask,fastapi)](https://skillicons.dev)
+
+Tools & IDEs:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,vscodium,atom,figma,godot,mint,windows)](https://skillicons.dev)
 
 ---
 
@@ -26,7 +35,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlebovoz&layout=compact&theme=transparent)
 ---
-[![codewars](https://www.codewars.com/users/baton%20xleba/badges/large)](https://www.codewars.com/users/baton%20xleba) 
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlebpvoz&theme=tokyonight"/></a></p>
+
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-readme-stats.vercel.app/api?username=xlebovoz&show_icons=true&theme=radical"></a></p>
 ---
 
 ## 📫 How to Reach Me?
