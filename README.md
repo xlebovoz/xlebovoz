@@ -19,13 +19,16 @@
 
 ## 🛠️ Tech Skills
 
-Languages:
+<h5>anguages:</h5>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c)](https://skillicons.dev)
 
-Frameworks & Libraries:
+<h5>Frameworks & Libraries:</h5>
+
 [![My Skills](https://skillicons.dev/icons?i=react,htmx,qt,flask,fastapi)](https://skillicons.dev)
 
-Tools & IDEs:
+<h5>Tools & IDEs:</h5>
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,vscodium,atom,figma,godot,mint,windows)](https://skillicons.dev)
 
 ---
@@ -35,7 +38,7 @@ Tools & IDEs:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlebovoz&layout=compact&theme=transparent)
 ---
-<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlebpvoz&theme=tokyonight"/></a></p>
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlebovoz&theme=tokyonight"/></a></p>
 
 <p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-readme-stats.vercel.app/api?username=xlebovoz&show_icons=true&theme=radical"></a></p>
 ---
