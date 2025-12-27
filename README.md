@@ -4,11 +4,7 @@
 <h1 align="center">Hello i am Xlebovoz</h1>
 <h2 align="center">Python and web developer<h2>
 
-
-![](https://komarev.com/ghpvc/?username=xlebovoz&color=red)
-
 ---
-
 ## 🌟 About Me
 
 - 🔭 I’m currently working on: writing small websites and programs in Python  
