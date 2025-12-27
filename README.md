@@ -19,28 +19,26 @@
 
 ## 🛠️ Tech Skills
 
-<h5>anguages:</h5>
+<h3>Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c)](https://skillicons.dev)
 
-<h5>Frameworks & Libraries:</h5>
+<h3>Frameworks & Libraries:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,htmx,qt,flask,fastapi)](https://skillicons.dev)
 
-<h5>Tools & IDEs:</h5>
+<h3>Tools & IDEs:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,vscodium,atom,figma,godot,mint,windows)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlebovoz&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlebovoz&layout=compact&theme=transparent)
----
 <p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlebovoz&theme=tokyonight"/></a></p>
 
-<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-readme-stats.vercel.app/api?username=xlebovoz&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-stats-eta-two.vercel.app/api/stats/xlebovoz"/></a></p>
+
 ---
 
 ## 📫 How to Reach Me?
