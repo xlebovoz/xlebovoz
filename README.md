@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
+<h1 align="center">Hello i am Xlebovoz 🍞</h1>
 
-<h1 align="center">Hello i am Xlebovoz</h1>
-<h2 align="center">Python and web developer<h2>
+<p align="center">
+  <strong>Python and web developer</strong>
+</p>
 
----
 ## 🌟 About Me
 
 - 🔭 I’m currently working on: writing small websites and programs in Python  
