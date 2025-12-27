@@ -44,9 +44,8 @@
 <a href="https://www.codewars.com/users/baton%20xleba"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
 <a href="https://www.frontendmentor.io/profile/xlebovoz"><img src="https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/HappyXLEB/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+<a href="https://xlebovoz-links.vercel.app/"><img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
 <div>
-
-<!-- - 🌐 My website: https: [//xlebovoz-links.vercel.app/](https://xlebovoz-links.vercel.app/) -->
 
 <!-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
 
