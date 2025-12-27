@@ -47,3 +47,6 @@
 - 📈 Codewars: [https://www.codewars.com/users/baton%20xleba](https://www.codewars.com/users/baton%20xleba)  
 - 💻 Frontend Mentor: [https://www.frontendmentor.io/profile/xlebovoz](https://www.frontendmentor.io/profile/xlebovoz)
 - 🌐 My website: https: [//xlebovoz-links.vercel.app/](https://xlebovoz-links.vercel.app/)
+
+
+![](https://komarev.com/ghpvc/?username=xlebovoz&style=for-the-badge&color=blue)
