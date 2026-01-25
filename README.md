@@ -36,6 +36,8 @@
 
 <p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-stats-eta-two.vercel.app/api/stats/xlebovoz"/></a></p>
 
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://www.codewars.com/users/baton%20xleba/badges/large"></a></p>
+
 ---
 
 ## 📫 How to Reach Me?
