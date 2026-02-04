@@ -38,7 +38,7 @@
 
 <p align="center"><a href="https://github.com/xlebovoz"><img src="https://profile-stats-xleb.vercel.app/api/badge.svg?username=xlebovoz"></a></p>
 
-<p align="center"><a href="https://github.com/xlebovoz"><img src="https://www.codewars.com/users/baton%20xleba/badges/large"></a></p>
+<p align="center"><a href="https://github.com/xlebovoz/Profile-stats"><img src="https://www.codewars.com/users/baton%20xleba/badges/large"></a></p>
 
 ---
 
