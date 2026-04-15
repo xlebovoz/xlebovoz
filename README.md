@@ -36,6 +36,8 @@
 
 <p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-stats-eta-two.vercel.app/api/stats/xlebovoz"/></a></p>
 
+<p align="center"><a href="https://github.com/xlebovoz/Profile-stats"><img src="https://git-graphs.vercel.app/api/user-stats.svg?username=xlebovoz"></a></p>
+
 <p align="center"><a href="https://github.com/xlebovoz/Profile-stats"><img src="https://profile-stats-xleb.vercel.app/api/badge.svg?username=Xlebovoz&show_username=true&theme=coal"></a></p>
 
 <p align="center"><a href="https://github.com/xlebovoz"><img src="https://www.codewars.com/users/Xlebovoz/badges/large"></a></p>
