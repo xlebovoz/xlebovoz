@@ -18,15 +18,15 @@
 
 <h3>Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,py,c,bash)](https://skillicons.dev)
 
 <h3>Frameworks & Libraries:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,htmx,qt,flask,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,gtk)](https://skillicons.dev)
 
 <h3>Tools & IDEs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,vscodium,atom,figma,godot,mint,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,vscodium,atom,figma,arduino)](https://skillicons.dev)
 
 ---
 
